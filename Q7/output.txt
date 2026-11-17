@@ -1,0 +1,6 @@
+n original_result original_divisions redesigned_result redesigned_divisions
+97 prime 8 prime 4
+100 not-prime 1 not-prime 1
+7919 prime 87 prime 43
+1000003 prime 999 prime 499
+999983 prime 998 prime 499
