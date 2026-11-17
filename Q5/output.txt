@@ -1,0 +1,14 @@
+      97 prime     divisions = 8
+     100 not prime divisions = 1
+    7919 prime     divisions = 87
+ 1000003 prime     divisions = 999
+All-divisor loop (same inputs):
+      97 prime     divisions = 95
+     100 not prime divisions = 1
+    7919 prime     divisions = 7917
+ 1000003 prime     divisions = 1000001
+while and do-while versions agree:
+97: while=8 do-while=8 result=same
+100: while=1 do-while=1 result=same
+7919: while=87 do-while=87 result=same
+1000003: while=999 do-while=999 result=same
