@@ -1,0 +1,1 @@
+Enter unit price, quantity and senior (1=yes, 0=no): gross=200 discount=30 tax=8 total=178 net=178
